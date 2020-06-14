@@ -1,0 +1,26 @@
+# Parichay routing definition
+parichay.settings_tab:
+  route_name: parichay.settings
+  title: 'Settings'
+  base_route: parichay.settings
+
+entity.parichay.canonical:
+  route_name: entity.parichay.canonical
+  base_route: entity.parichay.canonical
+  title: 'View'
+
+entity.parichay.edit_form:
+  route_name: entity.parichay.edit_form
+  base_route: entity.parichay.canonical
+  title: 'Edit'
+
+entity.parichay.version_history:
+  route_name: entity.parichay.version_history
+  base_route: entity.parichay.canonical
+  title: 'Revisions'
+
+entity.parichay.delete_form:
+  route_name:  entity.parichay.delete_form
+  base_route:  entity.parichay.canonical
+  title: Delete
+  weight: 10

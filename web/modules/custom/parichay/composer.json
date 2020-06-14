@@ -1,0 +1,14 @@
+{
+    "name": "parichay",
+    "type": "drupal-module",
+    "description": "Manage and digitalize parichay",
+    "homepage": "https://www.drupal.org/project/parichay",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/parichay",
+        "source": "http://cgit.drupalcode.org/parichay"
+    },
+    "extra": {
+
+    }
+}

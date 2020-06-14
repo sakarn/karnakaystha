@@ -1,0 +1,14 @@
+
+# Parichay menu items definition
+entity.parichay.collection:
+  title: 'Parichay list'
+  route_name: entity.parichay.collection
+  description: 'List Parichay entities'
+  parent: system.admin_structure
+  weight: 100
+
+parichay.admin.structure.settings:
+  title: 'Parichay settings'
+  description: 'Configure Parichay entities'
+  route_name: parichay.settings
+  parent: system.admin_structure

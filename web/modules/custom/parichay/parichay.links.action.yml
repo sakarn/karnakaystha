@@ -1,0 +1,5 @@
+entity.parichay.add_form:
+  route_name: entity.parichay.add_form
+  title: 'Add Parichay'
+  appears_on:
+    - entity.parichay.collection

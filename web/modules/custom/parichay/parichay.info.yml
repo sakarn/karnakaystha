@@ -1,0 +1,5 @@
+name: 'Parichay'
+type: module
+description: 'Manage and digitalize parichay'
+core: 8.x
+package: 'Kaystha'
